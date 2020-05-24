@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1590354880 source:d:\c++\trojkat_paskala\main.cpp
+	<iostream>
+	<iomanip>
+	<windows.h>
+	<cmath>
+
